@@ -21,7 +21,7 @@ To install Kid-AI, follow these steps:
 
 * Clone the repository:
 ```
-git clone https://github.com/Neurojet-AI/kid-ai/.git
+git clone https://github.com/Neurojet-AI/kid-ai.git
 ```
 * Install the required dependencies:
 ```
